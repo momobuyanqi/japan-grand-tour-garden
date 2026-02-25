@@ -9,7 +9,7 @@ tags:
   - thematic-research
   - ethnography
 publish: 
-  - garden
+  - japan
 ---
 
 # 🗾 日本地理与人文分区：从 8 大地区透视列岛结构

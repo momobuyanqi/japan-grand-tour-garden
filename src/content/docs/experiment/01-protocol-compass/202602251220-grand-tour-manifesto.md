@@ -11,7 +11,7 @@ tags:
   - alternative-education
 publish: 
   - blog
-  - garden
+  - japan
 ---
 
 # 🌏 扶桑乘槎录：一种社会替代教育的旅行人类学实验

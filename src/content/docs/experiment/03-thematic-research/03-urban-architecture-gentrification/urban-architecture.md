@@ -9,7 +9,7 @@ tags:
   - tinyhouse
   - urban-planning
 publish: 
-  - garden
+  - japan
 ---
 
 # 🏙️ 极小住宅与士绅化：透视东京的居住哲学与社会结构

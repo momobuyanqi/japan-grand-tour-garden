@@ -10,7 +10,7 @@ tags:
   - life-os
   - building-in-public
 publish: 
-  - garden
+  - japan
 ---
 
 # 🛠️ 自我民族志：数字花园的“硅基船只”构建实录

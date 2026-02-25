@@ -9,7 +9,7 @@ tags:
   - life-os
   - methodology
 publish: 
-  - garden
+  - japan
 ---
 
 # ✍️ 出发前的自我民族志：从人生 OS 构建到实验定锚

@@ -9,7 +9,7 @@ tags:
   - sustainable-agriculture
   - fujita-kazuyoshi
 publish: 
-  - garden
+  - japan
 ---
 
 # 🥕 从一根萝卜改变世界：藤田和芳的社会企业革命

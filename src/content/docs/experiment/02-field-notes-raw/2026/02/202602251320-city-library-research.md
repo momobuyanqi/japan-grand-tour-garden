@@ -10,7 +10,7 @@ tags:
   - japan
   - commercial-tourism
 publish: 
-  - garden
+  - japan
 ---
 
 # 📚 扶桑乘槎录·预研：市图书馆的“商业版”日本扫描

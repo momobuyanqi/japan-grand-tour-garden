@@ -9,7 +9,7 @@ tags:
   - daido-moriyama
   - place-m
 publish: 
-  - garden
+  - japan
 ---
 
 # 📸 日本摄影生态：从学院体系到新宿“地下乌托邦”
