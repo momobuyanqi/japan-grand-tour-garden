@@ -37,6 +37,10 @@ export default defineConfig({
 					autogenerate: { directory: 'experiment/02-field-notes-raw' },
 				},
 				{
+					label: '🛠️ 数字人类学实验室',
+					autogenerate: { directory: 'experiment/06-digital-ethnography-lab' },
+				},
+				{
 					label: '📚 资源与模板',
 					autogenerate: { directory: 'guides' },
 				},
