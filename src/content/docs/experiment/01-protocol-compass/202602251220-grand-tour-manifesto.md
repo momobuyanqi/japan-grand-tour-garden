@@ -10,6 +10,7 @@ tags:
   - anthropology
   - alternative-education
 publish: 
+  - japan
   - blog
   - japan
 ---
