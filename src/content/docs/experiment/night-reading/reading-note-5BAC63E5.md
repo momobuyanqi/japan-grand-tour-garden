@@ -11,7 +11,7 @@ publish:
 tags:
 - null
 - 夜抄读
-title: 工作,消费主义和新穷人
+title: 工作、消费主义和新穷人
 ---
 # Annotations (2/26/2026, 3:36:10 PM)
 
