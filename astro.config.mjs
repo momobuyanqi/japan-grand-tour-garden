@@ -34,7 +34,7 @@ export default defineConfig({
 				},
 				{
 					label: '🖋️ 夜抄读 (Reading Notes)',
-					autogenerate: { directory: 'experiment/夜抄读' },
+					autogenerate: { directory: 'experiment/night-reading' },
 				},
 				{
 					label: '✍️ 田野日志 (Raw Notes)',
