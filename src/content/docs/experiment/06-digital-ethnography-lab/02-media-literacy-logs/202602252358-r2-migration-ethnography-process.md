@@ -60,5 +60,5 @@ publish:
 此系统落成后，我们在日本壮游调研中的采集能力将获得数倍提升。一张照片从快门按下到全球花园展示，延迟将缩短至 10 秒以内。这不仅是效率，它是对“当下”的一次精准狩猎。
 
 ---
-*归档于：tcm-50-actions/55-fusang-chengcha-experiment/06-digital-ethnography-lab/02-media-literacy-logs/*
+*归档于：experiment/06-digital-ethnography-lab/02-media-literacy-logs/*
 *记录人：数字化探险队 (momo & mo小虾 & Anti-Gravity)*

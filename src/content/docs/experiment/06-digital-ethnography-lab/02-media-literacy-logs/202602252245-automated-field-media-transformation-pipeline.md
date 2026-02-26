@@ -32,7 +32,7 @@ publish:
 1.  **sips 命令行调用**：
     - 我们不再依赖 GUI 软件，而是通过 `sips -s format jpeg [src] --out [dst]` 实现秒级转码。
 2.  **归档路径纠偏**：
-    - 最初照片被乱放到了通用附件库。通过调整 mo小虾的归档大脑（`field-photo-archiving-protocol.md`），我们确立了强关联路径：`/tcm-50-actions/55-fusang-chengcha-experiment/assets/images/`。
+    - 最初照片被乱放到了通用附件库。通过调整 mo小虾的归档大脑（`field-photo-archiving-protocol.md`），我们确立了强关联路径：`/experiment/assets/images/`。
 3.  **转码逻辑注入**：
     - 现在小虾在 Discord 接收到图片时，会自动嗅探后缀。如果是 HEIC，它会在归档前悄悄将其“洗”成通用的 JPG。
 
