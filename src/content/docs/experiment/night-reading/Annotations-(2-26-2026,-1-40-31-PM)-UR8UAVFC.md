@@ -15,53 +15,53 @@ year: 2017
 ---
 # Annotations (2/26/2026, 1:40:31 PM)
 
-![Zotero: 23Z7HCEK](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/23Z7HCEK.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/23Z7HCEK.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22cov001.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. cov001.pdg</a></span>)</span> 东京《亲历者》编辑部 编著
 
-![Zotero: N2LCR5IU](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/N2LCR5IU.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/N2LCR5IU.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000003.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000003.pdg</a></span>)</span> 田野调查透过消费景观，看到在地知识，与这就是人类学所说的要有透过平凡见惊奇。
 
-![Zotero: I2GLVP77](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/I2GLVP77.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/I2GLVP77.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000015.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000015.pdg</a></span>)</span> 行程经济设计
 
-![Zotero: U5AUWVTU](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/U5AUWVTU.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/U5AUWVTU.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000017.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000017.pdg</a></span>)</span> 气候
 
-![Zotero: BW8A6DX6](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/BW8A6DX6.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/BW8A6DX6.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000018.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000018.pdg</a></span>)</span> 时差
 
-![Zotero: 4IPNPN24](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/4IPNPN24.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/4IPNPN24.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000018.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000018.pdg</a></span>)</span> 电压
 
-![Zotero: 9UWAB29H](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/9UWAB29H.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/9UWAB29H.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000021.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000021.pdg</a></span>)</span> 廉价机票研究
 
-![Zotero: V3NEVIRE](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/V3NEVIRE.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/V3NEVIRE.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000022.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000022.pdg</a></span>)</span> 预订酒店
 
-![Zotero: 8DA6SNV9](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/8DA6SNV9.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/8DA6SNV9.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000025.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000025.pdg</a></span>)</span> 学习识别日元
 
-![Zotero: ZYMCJ3BM](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/ZYMCJ3BM.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/ZYMCJ3BM.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000026.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000026.pdg</a></span>)</span> 携带人民币限额
 
-![Zotero: I7ZUVU65](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/I7ZUVU65.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/I7ZUVU65.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000026.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000026.pdg</a></span>)</span> 信用卡
 
-![Zotero: 7FBMJR2V](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/7FBMJR2V.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/7FBMJR2V.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000027.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000027.pdg</a></span>)</span> VISA、Master Card、AMEX、DC、DinersClub大莱卡
 
-![Zotero: 37DR2PQF](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/37DR2PQF.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/37DR2PQF.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000027.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000027.pdg</a></span>)</span> 银联卡研究
 
-![Zotero: NB69J9WV](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/NB69J9WV.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/NB69J9WV.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000027.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000027.pdg</a></span>)</span> 关于网络流量（随身Wi-Fi）
 
-![Zotero: VLJNQMBA](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/VLJNQMBA.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/VLJNQMBA.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000028.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000028.pdg</a></span>)</span> 手机开通国际漫游研究
 
-![Zotero: WJZJULMZ](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/WJZJULMZ.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/WJZJULMZ.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000029.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000029.pdg</a></span>)</span> 随身wifi的使用
 
-![Zotero: DSTRXIJQ](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/momo/night-reading/2026-02/DSTRXIJQ.jpg)\
+![Reading Note Image](https://pub-34fb127526364bf4b4a8867c58eca950.r2.dev/night-reading/2026-02/DSTRXIJQ.jpg)\
 <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F7401961%2Fitems%2F8DMTY8NY%22%5D%2C%22locator%22%3A%22000031.pdg%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/8DMTY8NY">“东京一周游 -- 《亲历者》编辑部编著, _亲历者_编辑部编著, 江乐兴, 亲历者编辑部 -- 2017, 2017 -- 北京_中国铁道出版社 -- 9787113229788 -- b05daa8677a590ae92c594466d3335f6 -- Anna’s Archive”, p. 000031.pdg</a></span>)</span> 日本旅行APP大全研究
