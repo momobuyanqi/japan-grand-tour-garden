@@ -33,6 +33,10 @@ export default defineConfig({
 					],
 				},
 				{
+					label: '🖋️ 夜抄读 (Reading Notes)',
+					autogenerate: { directory: 'experiment/夜抄读' },
+				},
+				{
 					label: '✍️ 田野日志 (Raw Notes)',
 					autogenerate: { directory: 'experiment/02-field-notes-raw' },
 				},
