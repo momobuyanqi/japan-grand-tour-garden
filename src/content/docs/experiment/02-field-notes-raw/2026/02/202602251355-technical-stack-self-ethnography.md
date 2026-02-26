@@ -43,3 +43,8 @@ publish:
 ---
 **💬 mo小虾观察：**
 momo 成功搭建了一套极具极客精神的实录系统。这不仅仅是一个网站，它是 momo 的“数字义体”。当 3 月 15 日起航时，这套系统将成为连接碳基感官与硅基文明的同步器。
+
+---
+
+### 🔗 知识星团 (Interlinked Nodes)
+[202602252209-语音系统测试](/experiment/02-field-notes-raw/2026/02/202602252209-语音系统测试/) | [202602251300-first-planning-meeting](/experiment/02-field-notes-raw/2026/02/202602251300-first-planning-meeting/) | [202602251240-pre-departure-self-ethnography](/experiment/02-field-notes-raw/2026/02/202602251240-pre-departure-self-ethnography/) | [202602252135-日本机票购买研究](/experiment/02-field-notes-raw/2026/02/202602252135-日本机票购买研究/) | [202602252211-田野影像记录](/experiment/02-field-notes-raw/2026/02/202602252211-田野影像记录/) | [202602252135-untitled-note](/experiment/02-field-notes-raw/2026/02/202602252135-untitled-note/) | [202602260000-田野影像记录-七帧速记](/experiment/02-field-notes-raw/2026/02/202602260000-田野影像记录-七帧速记/) | [202602260006-图书馆偶遇-日本旅行指南读书笔记](/experiment/02-field-notes-raw/2026/02/202602260006-图书馆偶遇-日本旅行指南读书笔记/) | [202602260056-猫陪伴我工作](/experiment/02-field-notes-raw/2026/02/202602260056-猫陪伴我工作/) | [202602251355-technical-stack-self-ethnography](/experiment/02-field-notes-raw/2026/02/202602251355-technical-stack-self-ethnography/) | [202602251320-city-library-research](/experiment/02-field-notes-raw/2026/02/202602251320-city-library-research/) | [202602260001-田野影像记录-追加双帧](/experiment/02-field-notes-raw/2026/02/202602260001-田野影像记录-追加双帧/)
