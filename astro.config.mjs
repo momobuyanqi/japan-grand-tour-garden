@@ -24,13 +24,7 @@ export default defineConfig({
 				},
 				{
 					label: '🏮 专题研究 (Thematic)',
-					items: [
-						{ label: '日本地理与分区', slug: 'experiment/03-thematic-research/japan-geography-culture/202602251330-japan-8-regions-overview' },
-						{ label: '摄影生态与视觉', slug: 'experiment/03-thematic-research/01-photography-visual-culture/photography-ecology' },
-						{ label: '农业CSA与社企', slug: 'experiment/03-thematic-research/02-agriculture-csa-social-biz/agriculture-csa-social-enterprise' },
-						{ label: '极小住宅与士绅化', slug: 'experiment/03-thematic-research/03-urban-architecture-gentrification/urban-architecture' },
-						{ label: '文学地形与书店', slug: 'experiment/03-thematic-research/04-literature-bookstores-topography/literary-topography' },
-					],
+					autogenerate: { directory: 'experiment/03-thematic-research' },
 				},
 				{
 					label: '🖋️ 夜抄读 (Reading Notes)',
