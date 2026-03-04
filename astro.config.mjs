@@ -3,10 +3,13 @@ import starlight from '@astrojs/starlight';
 import starlightDigitalGarden from 'starlight-digital-garden';
 import starlightThemeObsidian from 'starlight-theme-obsidian';
 
+import starlightSiteGraph from 'starlight-site-graph';
+
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://moxiaoxia.github.io', // Placeholder for sitemap/graph generation
+	site: 'https://japan-grand-tour-garden.vercel.app', // 校准为 Vercel 实际部署域名
 	integrations: [
+		starlightSiteGraph(), // 添加图谱集成
 		starlight({
 			title: '扶桑乘槎录',
 			description: '一种社会替代教育的旅行人类学实验',
