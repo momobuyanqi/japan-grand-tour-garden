@@ -42,6 +42,10 @@ export default defineConfig({
 					autogenerate: { directory: 'experiment/06-digital-ethnography-lab' },
 				},
 				{
+					label: '🧭 wygg 的壮游脚手架',
+					autogenerate: { directory: 'experiment/papa-scaffold' },
+				},
+				{
 					label: '📚 资源与模板',
 					autogenerate: { directory: 'guides' },
 				},
