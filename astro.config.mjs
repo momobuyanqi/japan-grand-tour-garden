@@ -27,7 +27,7 @@ export default defineConfig({
 				},
 				{
 					label: '🏮 专题研究 (Thematic)',
-					autogenerate: { directory: 'experiment/03-thematic-research' },
+					autogenerate: { directory: 'experiment/papa-scaffold/03-thematic-research' },
 				},
 				{
 					label: '🖋️ 夜抄读 (Reading Notes)',
@@ -42,8 +42,11 @@ export default defineConfig({
 					autogenerate: { directory: 'experiment/06-digital-ethnography-lab' },
 				},
 				{
-					label: '🧭 wygg 的壮游脚手架',
-					autogenerate: { directory: 'experiment/papa-scaffold' },
+					label: '🧭 壮游核心脚手架',
+					items: [
+						{ label: '执行计画 (2026)', slug: 'experiment/papa-scaffold/04-itinerary-itinerant/202603061510-japan-grand-tour-execution-plan' },
+						{ label: '目的地拓扑', slug: 'experiment/papa-scaffold/03-thematic-research/06-japan-geography-culture/202603061455-primary-school-travelers-destination-map' },
+					]
 				},
 				{
 					label: '📚 资源与模板',
