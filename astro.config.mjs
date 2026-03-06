@@ -21,6 +21,7 @@ export default defineConfig({
 				{
 					label: '🎡 壮游启程',
 					items: [
+						{ label: '执行计画 (2026)', slug: 'experiment/papa-scaffold/04-itinerary-itinerant/202603061510-japan-grand-tour-execution-plan' },
 						{ label: '科考宣言', slug: 'experiment/01-protocol-compass/202602251220-grand-tour-manifesto' },
 						{ label: '研究方法论', slug: 'experiment/01-protocol-compass/202602251225-modernology-methodology' },
 					],
@@ -40,13 +41,6 @@ export default defineConfig({
 				{
 					label: '🛠️ 数字人类学实验室',
 					autogenerate: { directory: 'experiment/06-digital-ethnography-lab' },
-				},
-				{
-					label: '🧭 壮游核心脚手架',
-					items: [
-						{ label: '执行计画 (2026)', slug: 'experiment/papa-scaffold/04-itinerary-itinerant/202603061510-japan-grand-tour-execution-plan' },
-						{ label: '目的地拓扑', slug: 'experiment/papa-scaffold/03-thematic-research/06-japan-geography-culture/202603061455-primary-school-travelers-destination-map' },
-					]
 				},
 				{
 					label: '📚 资源与模板',
