@@ -19,7 +19,10 @@ publish:
    - **核心文件**：
      - `202603042304-Japan-Great-Tour-Vision.md` (壮游愿景)
      - `202603042310-Covenant-of-Rights-and-Responsibilities.md` (责权利契约)
+     - `202603050138-日本壮游目的地设计.md` (目的地设计思考原稿)
      - `202603051057-field-missions-standard-protocol.md` (田野调研标准化执行协议)
+     - `202603051255-intellectual-commonwealth-covenant.md` (父女智识共同体契约)
+     - `202603051310-data-desensitization-and-privacy-protocol.md` (智识共享脱敏协议)
 
 2. **`02-destinations/` (目的地研究)**
    - **含义**：智识地标的“物理地图”。
@@ -42,6 +45,9 @@ publish:
 - **`01-concepts/`**：
   - `202603042304-Japan-Great-Tour-Vision.md` (壮游愿景)
   - `202603042310-Covenant-of-Rights-and-Responsibilities.md` (责权利契约)
+  - `202603050138-日本壮游目的地设计.md` (目的地设计思考原稿)
+  - `202603051057-field-missions-standard-protocol.md` (田野调研标准化执行协议)
+  - `202603051255-intellectual-commonwealth-covenant.md` (父女智识共同体契约)
 - **`02-destinations/`**：
   - `202603050043-tokyo-photography-culture-map.md` (摄影书店地图)
   - `202603050135-social-inclusion-sites-map.md` (社会融入调研地图)
@@ -67,6 +73,7 @@ publish:
   - `202603050155-art-residency-and-visa-action-plans.md` (艺术驻留与文化签证方案库)
   - `202603050205-social-action-and-diaspora-contacts.md` (社会行动与润日社群联络库)
   - `202603050232-intellectual-contacts-extended.md` (学者贝斯飞与是枝裕和拜访指南)
+  - `202603051300-distributed-fieldwork-sync-protocol.md` (分布式田野同步技术协议)
 
 
 ## 🎯 核心命题
